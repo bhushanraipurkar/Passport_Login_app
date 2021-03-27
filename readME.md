@@ -72,21 +72,3 @@ module.exports = function(passport){
 }
  ```
 
- - ALL DONE
-
- # result :
- >home page
-
-
- ![register page](/images/regiister.png) 
-
- > register page
-
- ![register page](/images/register.png)
-
- >login page
-
- ![login page](/images/login.png)
-
- ***
- ---
